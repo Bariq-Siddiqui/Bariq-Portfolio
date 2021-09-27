@@ -105,7 +105,7 @@ export default function Project(){
                       {project.head}
                     </Typography>
                     <Typography variant="body2" color="text.secondary">
-                        <a href={project.link}>
+                        <a href={project.link} target="_blank">
                             <Button variant="contained">Visit</Button>
                         </a>
                     </Typography>
