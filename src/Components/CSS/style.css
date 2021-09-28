@@ -1,0 +1,76 @@
+.aboudCard{
+    width: '50%';
+}
+.fa-html5{
+  font-size: 1.6em;
+  padding: 1%;
+  color: rgb(255, 94, 0);
+}
+.fa-css3-alt{
+  font-size: 1.6em;
+  padding: 1%;
+  color: blue;
+}
+.fa-js-square{
+  font-size: 1.6em;
+  padding: 1%;
+  color: rgb(226, 226, 4);
+}
+.fa-bootstrap{
+  font-size: 1.6em;
+  padding: 1%;
+  color: blue;
+}
+.fa-react{
+  font-size: 1.6em;
+  padding: 1%;
+  color: aqua;
+}
+.fa-node{
+  font-size: 1.6em;
+  padding: 1%;
+  color: green;
+}
+.fa-mdb{
+  font-size: 1.6em;
+  padding: 1%;
+  color: green;
+}
+.fa-database{
+  color: black;
+  font-size: 1.6em;
+  padding: 1%;
+}
+.iconText{
+    padding-left: 1rem;
+    font-size: 1.1rem;
+}
+li{
+    list-style-type: circle;
+}
+.ulHead{
+    font-size: 1.5rem;
+}
+.imgHeight{
+  height: 650px !important;
+}
+@media screen and (max-width: 500px) {
+  .imgHeight {
+    height: 300px !important;
+  }
+}
+.cardHome{
+  box-shadow: 8px 8px gainsboro !important;
+  border: 1px solid gainsboro;
+}
+.iconsHeight{
+  margin: auto;
+  width: 50% !important;
+}
+.cardContact{
+  box-shadow: 8px 8px gainsboro !important;
+}
+.projectPic{
+  height: 300px;
+  /* width: ; */
+}

@@ -1,0 +1,10 @@
+.header{
+    font-weight: bold;
+}
+.link{
+    font-weight: 500;
+}
+.link:hover{
+    color: rgb(211, 211, 211) !important;
+    text-decoration: underline;
+}
