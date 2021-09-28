@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Bariq-Portfolio/static/css/main.fbe3b8ea.chunk.css",
-    "main.js": "/Bariq-Portfolio/static/js/main.26c5c72e.chunk.js",
-    "main.js.map": "/Bariq-Portfolio/static/js/main.26c5c72e.chunk.js.map",
+    "main.js": "/Bariq-Portfolio/static/js/main.8f077b85.chunk.js",
+    "main.js.map": "/Bariq-Portfolio/static/js/main.8f077b85.chunk.js.map",
     "runtime-main.js": "/Bariq-Portfolio/static/js/runtime-main.bcb1bc58.js",
     "runtime-main.js.map": "/Bariq-Portfolio/static/js/runtime-main.bcb1bc58.js.map",
     "static/css/2.818011ed.chunk.css": "/Bariq-Portfolio/static/css/2.818011ed.chunk.css",
@@ -53,6 +53,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.7ae063bf.chunk.js",
     "static/css/main.fbe3b8ea.chunk.css",
-    "static/js/main.26c5c72e.chunk.js"
+    "static/js/main.8f077b85.chunk.js"
   ]
 }
